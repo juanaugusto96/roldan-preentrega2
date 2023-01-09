@@ -11476,6 +11476,26 @@ header.masthead h1, header.masthead .h1 {
 footer{
   background-color: #7a5d03;
 }
-.mate{
-  color:#6a1a21 ;
+
+.carousel-inner {
+  background-color: #7a5d03;
+  width: 65%;
+  position: relative;
+  left: 16%;
+  bottom: 10px;
+  border-radius: 10%;
+  box-shadow: 10px 10px 10px ;
+}
+.nav-icon {
+  width: 52px;
+  height: 52px;
+}
+.spinner-border {
+  position: relative;
+  left: 35%;
+}
+.spinner-border:hover{
+  width: 4%;
+  height: 4%;
+  
 }
